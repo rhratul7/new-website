@@ -1,0 +1,71 @@
+.countainer {
+    width: 100%;
+    display: flex;
+    margin-top: 100px;
+
+
+}
+
+body {
+    margin: 150px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+header h1 {
+    font-size: 40px;
+    color: rgb(39, 38, 38);
+}
+
+
+
+.one {
+
+    width: 50%;
+
+
+}
+
+.button {
+    text-decoration: none;
+    display: flex;
+    color: white;
+    background-color: #E02C6D;
+    width: 250px;
+    padding: 10px;
+    border-radius: 100px;
+
+}
+
+.button a {
+
+    width: 70%;
+
+}
+
+
+span {
+
+    padding-top: 15px;
+
+
+}
+
+.one h1 {
+    font-size: 80px;
+
+
+
+}
+
+
+
+.two {
+    width: 50%;
+}
+
+.two img {
+    width: 540px;
+    height: 515px;
+    margin-left: 150px;
+}
